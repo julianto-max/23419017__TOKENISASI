@@ -1,2 +1,9 @@
-# 23419017__TOKENISASI
-UTS Teori Bahasa Formal dan Otomata | Mochammad julianto ikhsyan_23419017
+# 23419035_tokenization
+Simple Tokenization in HTML and JavaScript.
+
+# UTS Teori Bahasa Formal dan Otomata
+
+Nama      : EDI ARIANTO</br>
+NIM       : 23419038</br>
+Prodi     : Teknik Informatika</br>
+Angkatan  : 2019 Malam</br>
